@@ -1,72 +1,41 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
-
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation,}
+@inproceedings{DBLP:conf/cvpr/ZhouCGSW18,
+  author    = {Zhou, Lei and Cai, Chunlei and Gao, Yue and Su, Sanbao and Wu, Junmin},
+  title     = {Variational Autoencoder for Low Bit-rate Image Compression},
+  booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+  year      = {2018},
+  abbr      = {CVPR Workshop},
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics,},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers,}
+@article{DBLP:journals/corr/abs-2003-01595,
+  author    = {Gao, Yue and Rosenberg, Harrison and Fawaz, Kassem and Jha, Somesh and Hsu, Justin},
+  title     = {Analyzing Accuracy Loss in Randomized Smoothing Defenses},
+  abstract  = {Recent advances in machine learning (ML) algorithms, especially deep neural networks (DNNs), have demonstrated remarkable success (sometimes exceeding human-level performance) on several tasks, including face and speech recognition. However, ML algorithms are vulnerable to adversarial attacks, such test-time, training-time, and backdoor attacks. In test-time attacks an adversary crafts adversarial examples, which are specially crafted perturbations imperceptible to humans which, when added to an input example, force a machine learning model to misclassify the given input example. Adversarial examples are a concern when deploying ML algorithms in critical contexts, such as information security and autonomous driving. Researchers have responded with a plethora of defenses. One promising defense is randomized smoothing in which a classifier’s prediction is smoothed by adding random noise to the input example we wish to classify. In this paper, we theoretically and empirically explore randomized smoothing. We investigate the effect of randomized smoothing on the feasible hypotheses space, and show that for some noise levels the set of hypotheses which are feasible shrinks due to smoothing, giving one reason why the natural accuracy drops after smoothing. To perform our analysis, we introduce a model for randomized smoothing which abstracts away specifics, such as the exact distribution of the noise. We complement our theoretical results with extensive experiments.},
+  journal   = {arXiv},
+  year      = {2020},
+  abbr      = {Preprint},
+  arxiv     = {2003.01595},
 }
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.,},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  selected={true}
+@inproceedings{scaling,
+  title     = {Rethinking Image-Scaling Attacks: The Interplay Between Vulnerabilities in Machine Learning Systems},
+  author    = {Gao, Yue and Shumailov, Ilia and Fawaz, Kassem},
+  abstract  = {As real-world images come in varying sizes, the machine learning model is part of a larger system that includes an upstream image scaling algorithm. In this paper, we investigate the interplay between vulnerabilities of the image scaling procedure and machine learning models in the decision-based black-box setting. We propose a novel sampling strategy to make a black-box attack exploit vulnerabilities in scaling algorithms, scaling defenses, and the final machine learning model in an end-to-end manner. Based on this scaling-aware attack, we reveal that most existing scaling defenses are ineffective under threat from downstream models. Moreover, we empirically observe that standard black-box attacks can significantly improve their performance by exploiting the vulnerable scaling procedure. We further demonstrate this problem on a commercial Image Analysis API with transfer-based black-box attacks.},
+  booktitle = {Proceedings of the 39th International Conference on Machine Learning},
+  year      = {2022},
+  series    = {Proceedings of Machine Learning Research},
+  abbr      = {ICML},
+  note      = {Accepted for Long Presentation},
+
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik,},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
-}
-
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.,},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
+@inproceedings{chen2022practical,
+  title={Experimental Security Analysis of the App Model in Business Collaboration Platforms},
+  author={Chen, Yunang and Gao, Yue and Ceccio, Nick and Chatterjee, Rahul and Fawaz, Kassem and Fernandes, Earlence},
+  abstract={Business Collaboration Platforms like Microsoft Teams and Slack enable teamwork by supporting text chatting and third-party resource integration. A user can access online file storage, make video calls, and manage a code repository, all from within the platform, thus making them a hub for sensitive communication and resources. The key enabler for these productivity features is a third-party application model. We contribute an experimental security analysis of this model and the third-party apps. Performing this analysis is challenging because commercial platforms and their apps are closed-source systems. Our analysis methodology is to systematically investigate different types of interactions possible between apps and users. We discover that the access control model in these systems violates two fundamental security principles: least privilege and complete mediation. These violations enable a malicious app to exploit the confidentiality and integrity of user messages and third-party resources connected to the platform. We construct proof-of-concept attacks that can: (1) eavesdrop on user messages without having permission to read those messages; (2) launch fake video calls; (3) automatically merge code into repositories without user approval or involvement. Finally, we provide an analysis of countermeasures that systems like Slack and Microsoft Teams can adopt today.},
+  booktitle={31st USENIX Security Symposium},
+  abbr={USENIX Security},
+  year={2022},
 }
