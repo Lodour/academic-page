@@ -202,7 +202,7 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Gao
+  last_name: ['Gao', 'Gao*']
   first_name: [Yue]
 
   style: ieee
