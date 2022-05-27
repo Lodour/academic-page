@@ -16,8 +16,8 @@ publications:
   years: [2022, 2020, 2018]
 ---
 
-I am a Ph.D. student in the Computer Science Department at [University of Wisconsin-Madison](https://wisc.edu/), advised by [Kassem Fawaz](https://kassemfawaz.com/) in the [Wisconsin Privacy and Security (Wi-Pi)](https://wiscprivacy.com/) research group. I also actively work with [Somesh Jha](https://pages.cs.wisc.edu/~jha/) on robust machine learning, and with [Earlence Fernandes](http://www.earlence.com/) and [Rahul Chatterjee](https://pages.cs.wisc.edu/~chatterjee/) on system security in the [Security and Privacy (MadS&P)](https://madsp.cs.wisc.edu/) research group.
+I am a Ph.D. student in the Computer Science Department at the [University of Wisconsin-Madison](https://wisc.edu/), advised by [Kassem Fawaz](https://kassemfawaz.com/) in the [Wisconsin Privacy and Security (Wi-Pi)](https://wiscprivacy.com/) research group. I also actively work with [Somesh Jha](https://pages.cs.wisc.edu/~jha/) on trustworthy machine learning, and with [Earlence Fernandes](http://www.earlence.com/) and [Rahul Chatterjee](https://pages.cs.wisc.edu/~chatterjee/) on system security in the [Security and Privacy (MadS&P)](https://madsp.cs.wisc.edu/) research group.
 
 My research interest broadly lies in machine learning security and system security. My current works focus on the security issues in machine learning systems, as well as countermeasures to provide trustworthy machine learning.
 
-Prior to this, I obtained my Bachelor's degreee in Computer Science from [Shanghai University](https://www.shu.edu.cn/).
+Prior to this, I obtained my Bachelor's degree in Computer Science from [Shanghai University](https://www.shu.edu.cn/).
