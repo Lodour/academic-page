@@ -1,5 +1,7 @@
 
           <div class="publications">
-            <h2>selected publications</h2>
+            <h3 class="font-weight-bolder"><i class="fas fa-book-bookmark"></i>&nbsp; Selected Publications
+            </h3>
+            <hr>
             {% bibliography -f papers -q @*[selected=true]* %}
           </div>
