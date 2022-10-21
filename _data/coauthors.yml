@@ -1,34 +1,27 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Shumailov":
+  - firstname: ["Ilia"]
+    url: https://www.cl.cam.ac.uk/~is410/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Fawaz":
+  - firstname: ["Kassem"]
+    url: https://kassemfawaz.com/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Papernot":
+  - firstname: ["Nicolas"]
+    url: https://www.papernot.fr/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Kiciman": 
+  - firstname: ["Emre"]
+    url: https://www.microsoft.com/en-us/research/people/emrek/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Stokes":
+  - firstname: ["Jay", "Jack W."]
+    url: https://www.microsoft.com/en-us/research/people/jstokes/
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Chatterjee":
+  - firstname: ["Rahul"]
+    url: https://pages.cs.wisc.edu/~chatterjee/
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Fernandes":
+  - firstname: ["Earlence"]
+    url: https://www.earlence.com/
