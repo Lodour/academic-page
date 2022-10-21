@@ -17,4 +17,4 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Ph.D. student in the Computer Science Department at the [University of Wisconsin–Madison](https://wisc.edu/), advised by [Kassem Fawaz](https://kassemfawaz.com/) in the [Wi-Pi](https://wiscprivacy.com/) and [MadS&P](https://madsp.cs.wisc.edu/) research group. I also work with [Nicolas Papernot](https://www.papernot.fr/) on adversarial machine learning. Prior to joining UW–Madison, I obtained my Bachelor's degree in Computer Science from [Shanghai University](https://www.shu.edu.cn/).
 
-My research interest broadly lies in machine learning security and system security. My current works focus on the security issues and countermeasures in machine learning systems.
+My research interest broadly lies in machine learning security and system security. My current works focus on the adversarial robustness of machine learning systems, with the goal of understanding, detecting, and mitigating vulnerabilities in real-world machine learning systems.
