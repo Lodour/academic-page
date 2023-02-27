@@ -93,6 +93,7 @@ unsplash_id: # your unsplash id
 instagram_id: # your instagram id
 facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
+gpg_key: assets/public.asc
 
 contact_note: >
   gy [at] cs [dot] wisc [dot] edu
