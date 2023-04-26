@@ -10,8 +10,8 @@
   --global-code-bg-color: rgba(181, 9, 172, 0.05);
   --global-text-color: #000000;
   --global-text-color-light: #828282;
-  --global-theme-color: #B509AC;
-  --global-hover-color: #B509AC;
+  --global-theme-color: #0076df;
+  --global-hover-color: #0076df;
   --global-footer-bg-color: #1C1C1D;
   --global-footer-text-color: #e8e8e8;
   --global-footer-link-color: #ffffff;
@@ -123,7 +123,8 @@ table td,
 table th {
   color: var(--global-text-color);
 }
-table td {
+table td,
+table th {
   font-size: 1rem;
 }
 
@@ -337,7 +338,7 @@ blockquote {
   text-align: center;
 }
 .social .contact-icons {
-  font-size: 4rem;
+  font-size: 2rem;
 }
 .social .contact-icons a i::before {
   color: var(--global-text-color);
@@ -348,6 +349,7 @@ blockquote {
 }
 .social .contact-note {
   font-size: 0.8rem;
+  font-family: monospace;
 }
 
 footer.fixed-bottom {
@@ -532,9 +534,6 @@ footer.sticky-bottom {
   padding: 0;
   margin-top: 0;
 }
-.publications ol.bibliography li {
-  margin-bottom: 1rem;
-}
 .publications ol.bibliography li .preview {
   width: 100%;
   min-width: 80px;
@@ -571,7 +570,7 @@ footer.sticky-bottom {
   text-decoration: none;
 }
 .publications ol.bibliography li .author > em {
-  border-bottom: 1px solid;
+  font-weight: bold;
   font-style: normal;
 }
 .publications ol.bibliography li .author > span.more-authors {
@@ -891,35 +890,6 @@ d-appendix a:hover, d-appendix a.footnote-backlink:hover {
   d-article d-contents nav {
     grid-column: none;
   }
-}
-/*******************************************************************************
- * Customized styles.
- ******************************************************************************/
-table th {
-  font-size: 1rem;
-}
-
-.publications ol.bibliography li {
-  margin-bottom: 0rem;
-}
-.publications ol.bibliography li .author a {
-  border-bottom: 0;
-}
-.publications ol.bibliography li .author > em {
-  border-bottom: 0;
-  font-weight: bold;
-}
-
-.social .contact-icons {
-  font-size: 2rem;
-}
-.social .contact-note {
-  font-family: monospace;
-}
-
-:root {
-  --global-theme-color: #0076df;
-  --global-hover-color: #0076df;
 }
 
 /*# sourceMappingURL=main.css.map */
