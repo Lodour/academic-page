@@ -895,7 +895,7 @@ d-appendix a:hover, d-appendix a.footnote-backlink:hover {
 /*******************************************************************************
  * Customized styles.
  ******************************************************************************/
-.news .table-responsive table th {
+table th {
   font-size: 1rem;
 }
 
