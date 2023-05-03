@@ -1,0 +1,54 @@
+/*******************************************************************************
+ * Customized styles.
+ ******************************************************************************/
+
+.news {
+  table {
+    th {
+      font-size: 1rem;                      // Adjust the date size to align with content.
+      font-weight: normal;                  // Set date font to non-bold.
+      white-space: nowrap;                  // Keep date in one line.
+      text-align: end;                      // Keep date alighed to right.
+    }
+  }
+}
+
+.publications {
+  ol.bibliography {
+    li {
+      margin-bottom: 0rem;                  // Remove the margin between publication entries.
+
+      .author {
+        a {
+          border-bottom: 0;                 // Remove underline for co-authors.
+        }
+
+        > em {
+          border-bottom: 0;                 // Remove underline for the author.
+          font-weight: bold;                // Highlight the author with bold font.
+        }
+      }
+
+      .periodical:nth-of-type(even) {
+        font-style: italic;                 // Keep note font consistent with conference.
+        font-weight: bold;                  // Set note font to bold.
+      }
+    }
+  }
+}
+
+.social {
+  .contact-icons {
+    font-size: 2rem;                        // Adjust the icon's size.
+  }
+
+  .contact-note {
+    font-family: monospace;                 // Adjust the font of contact note (used as email).
+  }
+}
+
+// Theme color
+:root {
+  --global-theme-color: #{$blue-color};
+  --global-hover-color: #{$blue-color};
+}
