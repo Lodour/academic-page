@@ -1,8 +1,8 @@
 ---
-layout: cv
-permalink: /cv/
-title: cv
+layout: page
+permalink: /assets/pdf/cv.pdf
+title: CV
+icon: "fas fa-file-pdf"
 nav: true
-nav_order: 4
-cv_pdf: example_pdf.pdf
+nav_order: 3
 ---
