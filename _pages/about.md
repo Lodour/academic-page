@@ -24,5 +24,5 @@ My research interest broadly lies in machine learning security and system securi
   <span style="color: red;">
     I am actively seeking full-time opportunities for Fall 2024.
   </span>
-  [Here](https://pages.cs.wisc.edu/~gy/assets/pdf/cv.pdf) is my CV.
+  [Here](https://pages.cs.wisc.edu/~gy/assets/pdf/cv.pdf?ts=16935413593) is my CV.
 </span>
