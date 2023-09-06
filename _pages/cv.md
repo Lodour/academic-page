@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /assets/pdf/cv.pdf?ts=16935413593
+permalink: /assets/pdf/cv.pdf?ts=1694029105
 title: CV
 icon: "fas fa-file-pdf"
 nav: true
