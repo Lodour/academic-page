@@ -36,7 +36,7 @@
     <!-- Styles -->
     
     <link rel="stylesheet" href="/~gy/assets/css/main.css?ts=1683144711">
-    <link rel="canonical" href="https://pages.cs.wisc.edu/~gy/assets/pdf/cv.pdf?ts=1703042103">
+    <link rel="canonical" href="https://pages.cs.wisc.edu/~gy/assets/pdf/CV_YueGao.pdf?ts=1703049454">
 
     <!-- Dark Mode -->
     
@@ -73,7 +73,7 @@
 
               <!-- Other pages -->
               <li class="nav-item active">
-                <a class="nav-link" href="/~gy/assets/pdf/cv.pdf?ts=1703042103"><i class="fas fa-file-pdf"></i>&nbsp;CV<span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="/~gy/assets/pdf/CV_YueGao.pdf?ts=1703049454"><i class="fas fa-file-pdf"></i>&nbsp;CV<span class="sr-only">(current)</span></a>
               </li>
             </ul>
           </div>
