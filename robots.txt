@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rollroll.me//sitemap.xml
+Sitemap: https://pages.cs.wisc.edu/~gy/sitemap.xml
