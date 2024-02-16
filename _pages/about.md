@@ -20,9 +20,3 @@ I am a Ph.D. candidate in the Computer Science Department at the [University of 
 
 My research interest broadly lies in machine learning security and system security. My current works focus on the adversarial robustness of machine learning systems, with the goal of understanding, detecting, and mitigating vulnerabilities in real-world machine learning systems.
 
-<span style="font-weight: bold;">
-  <span style="color: red;">
-    I am actively seeking full-time opportunities for Spring and Fall 2024.
-  </span>
-  [Here](https://pages.cs.wisc.edu/~gy/assets/pdf/CV_YueGao.pdf?ts=1703049454) is my CV.
-</span>
