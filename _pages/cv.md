@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /assets/pdf/CV_YueGao.pdf?ts=1703049454
+permalink: /assets/pdf/CV_YueGao.pdf?ts=1773888965
 title: CV
 icon: "fas fa-file-pdf"
 nav: true
